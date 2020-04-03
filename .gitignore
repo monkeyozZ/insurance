@@ -1,0 +1,5 @@
+node_modules/
+unpackage/
+
+# Editor directories and files
+.vscode
